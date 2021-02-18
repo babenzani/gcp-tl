@@ -3,7 +3,7 @@ variable "project_id" {
 }
 
 variable "credentials" {
-    default = "/Users/arben/terraform/tess_cb-gcp-terraform/vpc_test_all/gcp-test-all-vpc-1706a367bad4.json"
+    default = "/home/arben/terraform/gcp-test-all-vpc-1706a367bad4.json"
 }
 
 variable "region" {
